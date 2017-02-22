@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ToolClass.iml" filepath="$PROJECT_DIR$/ToolClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TooslClass.iml" filepath="$PROJECT_DIR$/TooslClass.iml" />
     </modules>
   </component>
 </project>

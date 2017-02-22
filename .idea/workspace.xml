@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3cc9c20-4573-4c2d-a7ac-42f29817543e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DOMTest/DOMTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/BrAndBwDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/DisDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/DosDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/EncodeDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/FileOutDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/FileUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/FrAndFwDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/IoUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/IoUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/IoUtilsTestCopy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/IoUtilsTestCopyByBuffered.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/ObjectSeriaDemo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/ObjectSeriaDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/RafDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/charStreamIN.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/fileDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IoDemo/problen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SAXParserHandler/SAXParserHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SAXtest/SAXtest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/imooc/entity/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/packCollection/Convert.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/packCollection/EncodeDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/packCollection/CollectionsTest.java" afterPath="$PROJECT_DIR$/src/packCollection/CollectionsTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/IoDemo/problen.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ToolClass.iml" afterPath="$PROJECT_DIR$/TooslClass.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/books.xml" afterPath="$PROJECT_DIR$/books.xml" />
     </list>
     <ignored path="ToolClass.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,40 +41,18 @@
       <file leaf-file-name="DOMTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DOMTest/DOMTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="65">
               <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SAXParserHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SAXParserHandler/SAXParserHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="problen.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/IoDemo/problen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="books.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="books.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/books.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="90">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -196,11 +149,11 @@
         <option value="$PROJECT_DIR$/src/DOMtest.java" />
         <option value="$PROJECT_DIR$/src/DOMTest/DOMTest.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/SAXtest/SAXtest.java" />
-        <option value="$PROJECT_DIR$/books.xml" />
         <option value="$PROJECT_DIR$/src/com/imooc/SAXParserHandler/SAXParserHandler.java" />
         <option value="$PROJECT_DIR$/src/SAXtest/SAXtest.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/entity/Book.java" />
         <option value="$PROJECT_DIR$/src/SAXParserHandler/SAXParserHandler.java" />
+        <option value="$PROJECT_DIR$/books.xml" />
       </list>
     </option>
   </component>
@@ -269,78 +222,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToolClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToolClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packCollection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToolClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToolClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToolClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToolClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DOMTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToolClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ToolClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -944,22 +825,22 @@
       <workItem from="1487220517143" duration="6497000" />
       <workItem from="1487239123125" duration="1190000" />
       <workItem from="1487561141937" duration="2029000" />
-      <workItem from="1487746877228" duration="1690000" />
+      <workItem from="1487746877228" duration="3347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131919000" />
+    <option name="totallyTimeSpent" value="133576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33709678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1313,14 +1194,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/imooc/entity/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1358,28 +1231,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DOMTest/DOMTest.java">
+    <entry file="file://$PROJECT_DIR$/src/IoDemo/problen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SAXParserHandler/SAXParserHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="134">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IoDemo/problen.java">
+    <entry file="file://$PROJECT_DIR$/src/DOMTest/DOMTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="65">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding />
         </state>
       </provider>
